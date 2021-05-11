@@ -1,8 +1,8 @@
 # apis-node
 
- Working with an external app api using glitch
- implementing api in a web app using javaScript
- develope front-end using javaScript
+ implementing an external api into an existing web app using javascript and node
+ hosting web app using glitch tool
+ develope web app front-end using javaScript
  server side node.js and web framework express
  client side framework view
 
